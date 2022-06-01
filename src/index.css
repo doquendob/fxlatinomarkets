@@ -1,0 +1,80 @@
+.navbar {
+  border-bottom-width: 1px;
+  border-color: #dae1e7;
+  background-color: #fff;
+  width: 99%;
+  position: fixed;
+  height: 4rem;
+  z-index: 1;
+}
+
+.nav_links {
+  height: 100%;
+  list-style: none;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-align-items: center;
+  align-items: center;
+  max-width: 75rem;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 1.25rem;
+  padding: 0 0.75rem;
+}
+
+.nav_link {
+  text-decoration: none;
+  color: #22292f;
+  margin: 0.75rem;
+}
+
+.nav_link-push {
+  margin-left: auto;
+}
+
+.nav_link-margin-left {
+  padding-left: 0.75rem;
+}
+
+.nav_title {
+  text-decoration: none;
+  color: #22292f;
+  padding-right: 60px;
+  font-size: 1.39rem;
+}
+
+.app-container {
+  background-color: #22292f;
+}
+
+.logo_app {
+  width: 790px;
+  height: 700px;
+  display: block;
+  position: fixed;
+  top: 13vh;
+  right: 41vh;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.title {
+  position: fixed;
+  display: block;
+  top: 50px;
+  left: 28%;
+  color:rgb(147, 239, 239);
+  font-family: 'Tiro Devanagari Sanskrit', serif;
+  font-size: 2.4rem;
+}
+
+.background {
+  width: 195vh;
+  height: 100vh;
+}
+
+.app-container {
+  margin-top: -20px;
+  margin-left: -10px;
+  margin-right: -10px;
+}
