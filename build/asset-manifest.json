@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/fxlatinomarkets/static/css/main.7c907fbe.chunk.css",
+    "main.js": "/fxlatinomarkets/static/js/main.26ffc9f4.chunk.js",
+    "main.js.map": "/fxlatinomarkets/static/js/main.26ffc9f4.chunk.js.map",
+    "runtime-main.js": "/fxlatinomarkets/static/js/runtime-main.ca0b94d2.js",
+    "runtime-main.js.map": "/fxlatinomarkets/static/js/runtime-main.ca0b94d2.js.map",
+    "static/css/2.4b55b566.chunk.css": "/fxlatinomarkets/static/css/2.4b55b566.chunk.css",
+    "static/js/2.946502ce.chunk.js": "/fxlatinomarkets/static/js/2.946502ce.chunk.js",
+    "static/js/2.946502ce.chunk.js.map": "/fxlatinomarkets/static/js/2.946502ce.chunk.js.map",
+    "static/js/3.249a8c99.chunk.js": "/fxlatinomarkets/static/js/3.249a8c99.chunk.js",
+    "static/js/3.249a8c99.chunk.js.map": "/fxlatinomarkets/static/js/3.249a8c99.chunk.js.map",
+    "index.html": "/fxlatinomarkets/index.html",
+    "static/css/2.4b55b566.chunk.css.map": "/fxlatinomarkets/static/css/2.4b55b566.chunk.css.map",
+    "static/css/main.7c907fbe.chunk.css.map": "/fxlatinomarkets/static/css/main.7c907fbe.chunk.css.map",
+    "static/js/2.946502ce.chunk.js.LICENSE.txt": "/fxlatinomarkets/static/js/2.946502ce.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/fxlatinomarkets/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca0b94d2.js",
+    "static/css/2.4b55b566.chunk.css",
+    "static/js/2.946502ce.chunk.js",
+    "static/css/main.7c907fbe.chunk.css",
+    "static/js/main.26ffc9f4.chunk.js"
+  ]
+}
