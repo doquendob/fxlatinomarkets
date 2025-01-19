@@ -71,7 +71,7 @@ import Error from "./pages/Error";
 
 // Import Css Here 
 import './assets/scss/style.scss';
-import SignUp from './pages/SignUp';
+import Login from './pages/Login/Login';
 
 
 const App = () => {
@@ -81,7 +81,7 @@ const App = () => {
                 <Switch>
                     <Route path={`${process.env.PUBLIC_URL + "/"}`} exact component={Intro}/>
                     <Route path={`${process.env.PUBLIC_URL + "/home"}`} exact component={Splash}/>
-                    <Route path={`${process.env.PUBLIC_URL + "/signup"}`} exact component={SignUp}/>
+                    <Route path={`${process.env.PUBLIC_URL + "/login"}`} exact component={Login}/>
                     <Route path={`${process.env.PUBLIC_URL + "/business-consulting"}`} exact component={HomeDefault}/>
                     <Route path={`${process.env.PUBLIC_URL + "/business-consulting-2"}`} exact component={BusinessConsulting2}/>
                     <Route path={`${process.env.PUBLIC_URL + "/corporate"}`} exact component={Corporate}/>

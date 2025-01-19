@@ -19,6 +19,7 @@
     "react-circular-progressbar": "^2.0.4",
     "react-countup": "^4.3.3",
     "react-dom": "^17.0.2",
+    "react-google-login": "^5.2.2",
     "react-helmet": "^6.1.0",
     "react-icons": "^4.2.0",
     "react-move": "^6.4.0",
@@ -30,6 +31,7 @@
     "react-typed": "^1.2.0",
     "react-whatsapp": "^0.3.0",
     "sass": "^1.49.10",
+    "tailwindcss-animate": "^1.0.7",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
@@ -59,7 +61,8 @@
     ]
   },
   "devDependencies": {
-    "fslightbox-react": "^1.6.2"
+    "fslightbox-react": "^1.6.2",
+    "tailwindcss": "^3.4.17"
   },
   "engines": {
     "node": "4.7.0"

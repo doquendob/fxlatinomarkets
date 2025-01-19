@@ -28,8 +28,8 @@ const HeaderOne = ({btnStyle, HeaderSTyle}) => {
                     <div className="row align-items-center row--0">
                         <div className="col-lg-3 col-md-6 col-4">
                             <Logo 
-                                image={`${process.env.PUBLIC_URL}/images/logo/logo.png`}
-                                image2={`${process.env.PUBLIC_URL}/images/logo/logo.png`}
+                                image={`${process.env.PUBLIC_URL}/images/logo/logo_dark.png`}
+                                image2={`${process.env.PUBLIC_URL}/images/logo/fxlm_logo.png`}
                             />
                         </div>
                         <div className="col-lg-9 col-md-6 col-8 position-static">
@@ -38,7 +38,8 @@ const HeaderOne = ({btnStyle, HeaderSTyle}) => {
                                     <Nav />
                                 </nav>
                                 <div className="header-btn">
-                                    <Link to='/signup'><a className={`btn-default ${btnStyle}`} target="_blank" href="https://themeforest.net/checkout/from_item/33571911?license=regular">Sign Up Now!</a></Link>
+                                    <Link to='/fxlatinomarkets/signup'><a className={`btn-default ${btnStyle}`} target="_blank" href="https://themeforest.net/checkout/from_item/33571911?license=regular">Sign Up Now!</a></Link>
+                                    <Link to='/fxlatinomarkets/login'><a className={`btn-default ${btnStyle}`} target="_blank" href="https://themeforest.net/checkout/from_item/33571911?license=regular">Client Area</a></Link>
                                 </div>
                                 <div className="mobile-menu-bar ml--5 d-block d-lg-none">
                                     <div className="hamberger">

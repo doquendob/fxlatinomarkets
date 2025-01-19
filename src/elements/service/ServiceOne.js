@@ -39,19 +39,19 @@ const ServiceOne = ({textAlign, serviceStyle}) => {
                                 <h4 className="title w-600"><Link to="#service" dangerouslySetInnerHTML={{__html: val.title}}></Link></h4>
                                 <p className="description b1 color-gray mb--0" dangerouslySetInnerHTML={{__html: val.description}}></p>
                                 {val.title === 'Passing service' ? <ol class="ordered-list">
-                                    <li><strong>25k account - $150 </strong> </li>
-                                    <li><strong>50k account - $300 </strong> </li>
-                                    <li><strong>100k account - $500 </strong> </li>
-                                    <li><strong>200k account - $800 </strong> </li>
-                                    <li><strong>300k account - $1300 </strong> </li>
+                                    <li><strong>50k account - $180 </strong> </li>
+                                    <li><strong>100k account - $350 </strong> </li>
+                                    <li><strong>200k account - $620 </strong> </li>
+                                    <li><strong>300k account - $900 </strong> </li>
                                 </ol> : ""}
                                 {val.title === 'Account Management' ? <ul class="ordered-list">
                                     <li><strong>ROI for manually option: 7 - 15% avg monthly (higher risk) </strong> </li>
                                     <li><strong>ROI for bot option: 4 - 8% avg monthly (lower risk)</strong> </li>
+                                    <strong>NOT AVAILABLE</strong>
                                 </ul> : ""}
                                 {val.title === 'Mentorship' ? <ul class="ordered-list">
-                                    <li><strong>One to one mentorship with lifetime access to the VIP group - $450 </strong> </li>
-                                    <li><strong>Access to the VIP XAUUSD group - (monthly) $ 100 </strong> </li>
+                                    <li><strong>One to one mentorship with lifetime access to the VIP group - $300 </strong> </li>
+                                    <li><strong>Access to the VIP XAUUSD group - (monthly) $ 60 </strong> </li>
                                 </ul> : ""}
                             </div>
                         </div>

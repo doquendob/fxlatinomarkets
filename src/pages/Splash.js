@@ -35,7 +35,6 @@ const Demo = [
         Image: "./images/demo/result-04.jpeg" ,
         Imagelight: "./images/demo/result-04.jpeg" ,
         Title: "100k acc 1st phase almost passed",
-        badge: "New",
     },
     {
         Url : "/web-agency",
@@ -49,14 +48,12 @@ const Demo = [
         Image: "./images/demo/result-06.jpeg" ,
         Imagelight: "./images/demo/result-06.jpeg" ,
         Title: "300k account",
-        badge: "New",
     },
     {
         Url : "/consulting",
         Image: "./images/demo/result-08.jpeg" ,
         Imagelight: "./images/demo/result-08.jpeg" ,
         Title: "100k account",
-        badge: "Hot",
     },
     {
         Url : "/finance",
@@ -99,7 +96,6 @@ const Demo = [
         Image: "./images/demo/result-19.jpeg" ,
         Imagelight: "./images/demo/result-19.jpeg" ,
         Title: "E8 funding 250k 1st phase passed",
-        badge: "Hot",
     },
     {
         Url : "/marketing",
